@@ -56,3 +56,7 @@ int main() {
 
     return 0;
 }
+
+// how to run-
+// nvcc Addition.cu -o Addition
+// .\Addition.exe
