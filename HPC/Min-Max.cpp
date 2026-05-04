@@ -45,6 +45,11 @@ int main() {
     return 0;
 }
 
-//How to run -
+//How to run in VsCode -
 // g++ HPC3.cpp -o HPC3 -fopenmp
 //.\HPC3.exe
+
+
+//In eclipse -
+// Build project 
+// Run 
