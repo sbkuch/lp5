@@ -155,12 +155,14 @@ int main() {
 
 
 
-//How to run -
+//How to run in Vs Code -
 // g++ -fopenmp HPC2.cpp -o HPC2.exe                                                  
 //.\HPC2.exe               
 
 
-
+//In eclipse -
+// Build project 
+// Run 
 
 
 
