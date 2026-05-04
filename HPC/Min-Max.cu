@@ -94,3 +94,14 @@ int main() {
 
     return 0;
 }
+
+
+
+// how to run-
+// nvcc reduction.cu -o reduction
+// .\reduction.exe 
+
+
+
+
+
