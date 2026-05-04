@@ -45,3 +45,6 @@ int main() {
     return 0;
 }
 
+//How to run -
+// g++ HPC3.cpp -o HPC3 -fopenmp
+//.\HPC3.exe
