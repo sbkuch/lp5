@@ -68,3 +68,8 @@ int main() {
 
     return 0;
 }
+
+
+// how to run-
+// nvcc Matrix.cu -o Matrix
+// .\Matrix.exe
