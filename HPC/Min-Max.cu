@@ -98,8 +98,8 @@ int main() {
 
 
 // how to run-
-// nvcc reduction.cu -o reduction
-// .\reduction.exe 
+// nvcc min-max.cu -o min-max
+// .\min-max.exe 
 
 
 
